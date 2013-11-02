@@ -1,6 +1,6 @@
 /**
  *
- * @author brent_lives
+ * @author Brent Parish
  * CoinChange uses dynamic programming to solve i,j coin change problem
  * 
  * For Denom[0] = 10 Denom[1] = 6 and Denom[2] = 12
